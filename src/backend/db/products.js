@@ -11,9 +11,9 @@ export const products = [
     productId: 1,
     name: "Auto Hub EVA 3D Mat For Maruti Suzuki Ertiga  (Beige)",
     image: [
-      "https://res.cloudinary.com/junaidshaikh/image/upload/v1648022375/3d-127-auto-hub-3d-premium-anti-slip-original-imae92vtzzzmfrqe_izdxhn.webp",
-      "https://res.cloudinary.com/junaidshaikh/image/upload/v1650014492/AutoDecore/3d-102-auto-hub-3d-premium-anti-slip-original-imaehabumkzhhypu_hmnwoc.webp",
-      "https://res.cloudinary.com/junaidshaikh/image/upload/v1650014523/AutoDecore/3d-102-auto-hub-3d-premium-anti-slip-original-imaehabumfnjhndm_luzmqi.webp",
+      "https://res.cloudinary.com/chameleon-techie/image/upload/v1737098520/tim_produvcts_lxmnqk.jpg",
+      "https://res.cloudinary.com/chameleon-techie/image/upload/v1737098512/tim_products_3_noysjy.jpg",
+      "https://res.cloudinary.com/chameleon-techie/image/upload/v1737098499/tim_products_bcvfe1.jpg",
       "https://res.cloudinary.com/junaidshaikh/image/upload/v1650014543/AutoDecore/car-foot-mats-auccf-210-2018-autyle-original-imaehabuvggqmnpz_uajqmq.webp",
     ],
     rating: 3.5,
@@ -55,7 +55,7 @@ export const products = [
     productId: 3,
     name: "INDROP Auto new i10 13 inch Wheel Cover (33.02 cm) Pack Of 4 Wheel Cover For Hyundai i10  (33 cm)",
     image: [
-      "https://res.cloudinary.com/junaidshaikh/image/upload/v1648022740/auto-new-i10-13-inch-wheel-cover-33-02-cm-pack-of-4-original-imafmtzdhhxmfymy_evjimq.jpg",
+      "https://res.cloudinary.com/chameleon-techie/image/upload/v1737098499/tim_products_bcvfe1.jpg",
       "https://res.cloudinary.com/junaidshaikh/image/upload/v1650021783/AutoDecore/15-inches-wheel-cover-for-38-1-cm-pack-of-4-treyh1432kj36-indrop-original-imafm8h4v4zzfq7u_usxzoe.webp",
     ],
     rating: 4.8,
@@ -76,8 +76,8 @@ export const products = [
     productId: 4,
     name: "MRF ZVTV 165/70 R14 81S 4 Wheeler Tyre  (Tubeless Car Tyre, Tube Less)",
     image: [
-      "https://res.cloudinary.com/junaidshaikh/image/upload/v1648057349/zvtvcar-tyre-195-55-r16-87h-mrf-original-imafzspwhgyethct_kpccgo.jpg",
-      "https://res.cloudinary.com/junaidshaikh/image/upload/v1650021966/AutoDecore/zvtv-165-70-r14-81s-tubeless-car-tyre-mrf-original-imafpkzydhj4tnsn_whyakg.webp",
+      "https://res.cloudinary.com/chameleon-techie/image/upload/v1737098499/tim_products_bcvfe1.jpg",
+      "https://res.cloudinary.com/chameleon-techie/image/upload/v1737098499/tim_products_bcvfe1.jpg",
       "https://res.cloudinary.com/junaidshaikh/image/upload/v1650021993/AutoDecore/zvtv-165-70-r14-81s-tubeless-car-tyre-mrf-original-imafpkzyve9gszd5_keg9bl.webp",
     ],
     rating: 4.5,

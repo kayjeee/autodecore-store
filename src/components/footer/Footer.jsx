@@ -13,17 +13,17 @@ export function Footer() {
       }`}
     >
       <footer className="py-1">
-        <p>Made with ❤️ by Junaid</p>
+        <p>Made with ❤️ by SchoolHeadOffice</p>
         <div className="social-links">
-          <a href="https://twitter.com/junaidshaikh_js" className="mr-sm">
+          <a href="https://twitter.com/" className="mr-sm">
             <FaTwitterSquare fontSize="1.5rem" />
             <span className="visually-hidden">Twitter</span>
           </a>
-          <a href="https://github.com/junaidshaikh-js" className="mr-sm">
+          <a href="https://github.com/kayjeee" className="mr-sm">
             <FaGithubSquare fontSize="1.5rem" />
             <span className="visually-hidden">Github</span>
           </a>
-          <a href="https://www.linkedin.com/in/junaidshaikhjs/">
+          <a href="https://www.linkedin.com/in/kagiso sebogodi/">
             <FaLinkedin fontSize="1.5rem" />
             <span className="visually-hidden">LinkedIn</span>
           </a>

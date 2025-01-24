@@ -11,14 +11,14 @@ export const categories = [
     categoryName: "Car Mats",
     description: "featured category",
     image:
-      "https://images-eu.ssl-images-amazon.com/images/G/31/img18/Automotive/Revamp/Car_Revamp/Revised/Car_Mats._CB1198675309_.jpg",
+      "https://res.cloudinary.com/chameleon-techie/image/upload/v1737759638/tim_logo_draft_1_towmh6.jpg",
   },
   {
     _id: uuid(),
     categoryName: "Car Tyres",
     description: "featured category",
     image:
-      "https://images-eu.ssl-images-amazon.com/images/G/31/img18/Automotive/Revamp/Car_Revamp/Car_Tyres._CB453410835_.jpg",
+      "https://res.cloudinary.com/chameleon-techie/image/upload/v1737758879/COMING_SOON_iacpdb.png",
   },
   {
     _id: uuid(),
@@ -30,41 +30,41 @@ export const categories = [
     categoryName: "Car Lighting",
     description: "featured category",
     image:
-      "https://images-eu.ssl-images-amazon.com/images/G/31/img18/Automotive/Revamp/Car_Revamp/Car_Lighting._CB453410832_.jpg",
+      "https://res.cloudinary.com/chameleon-techie/image/upload/v1737758879/COMING_SOON_iacpdb.png",
   },
   {
     _id: uuid(),
     categoryName: "Car Covers",
     description: "featured category",
     image:
-      "https://images-eu.ssl-images-amazon.com/images/G/31/img18/Automotive/Revamp/Car_Revamp/Car_Cover._CB453410833_.jpg",
+      "https://res.cloudinary.com/chameleon-techie/image/upload/v1737758879/COMING_SOON_iacpdb.png",
   },
   {
     _id: uuid(),
     categoryName: "Glass Cleaner",
     description: "car cleaning equipment",
     image:
-      "https://images-eu.ssl-images-amazon.com/images/G/31/img18/Automotive/Revamp/Car_Revamp/Glass_Cleaner._CB453410835_.jpg",
+      "https://res.cloudinary.com/chameleon-techie/image/upload/v1737758879/COMING_SOON_iacpdb.png",
   },
   {
     _id: uuid(),
     categoryName: "Pressure Washer",
     description: "car cleaning equipment",
     image:
-      "https://images-eu.ssl-images-amazon.com/images/G/31/img18/Automotive/Revamp/Car_Revamp/pressure_Washer._CB453410835_.jpg",
+      "https://res.cloudinary.com/chameleon-techie/image/upload/v1737758879/COMING_SOON_iacpdb.png",
   },
   {
     _id: uuid(),
     categoryName: "Air Purifiers",
     description: "car cleaning equipment",
     image:
-      "https://images-eu.ssl-images-amazon.com/images/G/31/img18/Automotive/Revamp/Car_Revamp/Air_Purifiers._CB453410833_.jpg",
+      "https://res.cloudinary.com/chameleon-techie/image/upload/v1737758879/COMING_SOON_iacpdb.png",
   },
   {
     _id: uuid(),
     categoryName: "Vacuum Cleaner",
     description: "car cleaning equipment",
     image:
-      "https://images-eu.ssl-images-amazon.com/images/G/31/img18/Automotive/Revamp/Car_Revamp/Vacuum_Cleaner._CB453410834_.jpg",
+      "https://res.cloudinary.com/chameleon-techie/image/upload/v1737758879/COMING_SOON_iacpdb.png",
   },
 ];
