@@ -13,7 +13,7 @@ export function Category({ categoryName, sources }) {
         <div className="category-container gap-1 m-sm">
           {sources.map(({ categoryName, image }) => {
             return (
-              <Link to="/products" key={categoryName}>
+              <Link to="/" key={categoryName}>
                 <figure
                   key={categoryName}
                   onClick={() => {
