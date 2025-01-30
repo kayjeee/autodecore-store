@@ -88,6 +88,31 @@ i[title="search"] {
     transform: translateY(-50%);
   }
 }
+/* Add styles for blue and red links */
+.nav-link {
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 8px 16px;
+  border-radius: 4px;
+  transition: background-color 0.3s;
+}
+
+.blue-text {
+  color: rgb(229, 229, 238);
+}
+
+.blue-text:hover {
+  background-color: lightblue;
+}
+
+.red-text {
+  color: red;
+}
+
+.red-text:hover {
+  background-color: lightcoral;
+}
 
 @media screen and (min-width: 1024px) {
   .hy-search-box {

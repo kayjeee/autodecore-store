@@ -24,9 +24,8 @@ export function Home() {
           <img src={Banner} alt="banner" />
         </figure>
       </Link>
+      <Category name="Featured Categories" sources={featuredCategories} />
 
-
-  
     </main>
   );
 }

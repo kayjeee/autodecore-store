@@ -54,7 +54,7 @@ function App() {
       <ScrollToTop />
       <Routes>
         <Route path="/" element={<Home />} />
-        
+        <Route path="/products" />
     
   
         <Route path="*" element={<Error404 />} />
