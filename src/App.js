@@ -54,44 +54,16 @@ function App() {
       <ScrollToTop />
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/products" element={<ProductListing />} />
-        <Route path="/product/:id" element={<SingleProductPage />} />
-        <Route path="/login" element={<Login />} />
-        <Route path="/signup" element={<Signup />} />
+        
+    
+  
         <Route path="*" element={<Error404 />} />
 
         {/* private routes */}
-        <Route
-          path="/cart"
-          element={
-            <PrivateRoute>
-              <Cart />
-            </PrivateRoute>
-          }
-        />
-        <Route
-          path="/wishlist"
-          element={
-            <PrivateRoute>
-              <Wishlist />
-            </PrivateRoute>
-          }
-        />
+        
+       
 
-        <Route path="/profile" element={<UserProfile />}>
-          <Route path="/profile" element={<PersonalInfo />} />
-          <Route path="/profile/addresses" element={<Addresses />} />
-          <Route path="/profile/orders" element={<Orders />} />
-        </Route>
 
-        <Route
-          path="/order-summary"
-          element={
-            <PrivateRoute>
-              <OrderSummary />
-            </PrivateRoute>
-          }
-        />
       </Routes>
       <Footer />
       <Toast type={type} message={message} />
